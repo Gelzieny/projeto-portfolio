@@ -40,7 +40,7 @@ Um site desktop de portfólio para desenvolvedores, com links para projetos e co
 O projeto está hospedado na <a href="https://vercel.com/" target="_blank">Vercel</a>, que oferece suporte nativo ao Next.js e facilita o processo de deploy contínuo.
 </p>
 
-🔗 **Acesse o projeto online:** [https://nlw-connect-react-zeta.vercel.app/](https://nlw-connect-react-zeta.vercel.app/)
+🔗 **Acesse o projeto online:** [Projeto Portfólio](https://projeto-portfolio-alpha-flame.vercel.app/)
 
 
 ## 🔖 Layout
