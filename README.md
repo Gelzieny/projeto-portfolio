@@ -48,10 +48,10 @@ O projeto está hospedado na <a href="https://vercel.com/" target="_blank">Verce
 Você pode visualizar o layout completo do projeto por meio deste [link](https://www.figma.com/design/M5eZIo9sq3zhXWlHtjnZEA/Portfolio-Dev--Community---Copy-?node-id=0-1&p=f&t=CTOoSdRnVsGN7ilm-0). Para acessá-lo, é necessário ter uma conta no [Figma](https://figma.com).
 
 
-## :memo: Licença
+# 🧑🏻‍💻 Autor
 
-Esse projeto está sob a licença MIT.
+Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
 
----
+## 📝 Licença
 
-Feito com ♥ by Gelzieny R. Martins :wave:
+Este projeto esta sobe a licença [MIT](./LICENSE).
